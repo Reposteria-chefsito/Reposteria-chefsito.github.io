@@ -13,3 +13,14 @@ Reposteria_chefsito.sonrisas@gmail.com
 
 INSTAGRAM:
 Reposteria_Chefsito_cdmx_0001
+
+WHATSAPP
+
+![wa link_h10gp9](https://user-images.githubusercontent.com/99769850/158879064-9a36be76-6ce0-4b22-be51-4b551feb4c31.png)
+
+<form>
+<label for="name">Nombres:</label><br>
+<input type="text" id="fn name" name="name" value="Tus nombres"><br>
+<label for="lname">Apellidos:</label><br>
+<input type="text" id="lname" name="lname" value="Tus apellidos"><br>
+</form>
