@@ -1,4 +1,4 @@
-[Modelos Clasicos](./modelosclasicos.md) | [Modelos Personalizados](./modelospersonalizados.md) | [Sabor y relleno](./saboryrelleno.md) | [Tamaños](./tamaños.md) | [Precios](./precios.md)
+[MODELOS CLASICOS](./MODELOSCLASICOS.MD)| [MODELOS PERSONLIZADOS](./MODELOSPERSONALIZADOS.MD) | [SABOR Y RELLENO](./SABORYRELLENO.MD) | [TAMAÑOS](./TAMAÑOS.MD) | [PRECIOS](./PRECIOS.MD)
 
 ### REPOSTERIA CHEFSITO 
 
