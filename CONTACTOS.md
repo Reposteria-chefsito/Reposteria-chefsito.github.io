@@ -19,7 +19,7 @@ WHATSAPP
 ![wa link_h10gp9](https://user-images.githubusercontent.com/99769850/158879064-9a36be76-6ce0-4b22-be51-4b551feb4c31.png)
 
 <form>
-<label for="name">Nombres:</label><br>
+<label for="name">Nombres1:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
 <label for="lname">Apellidos:</label><br>
 <input type="text" id="lname" name="lname" value="Tus apellidos"><br>
@@ -27,7 +27,6 @@ WHATSAPP
 <input type="text" id="celular" name="celular" value="Tu Celular"><br>
 <label for="mail">Correo:</label><br>
 <input type="mail" id="mail" name="mail" value="Tu correo"><br>
-<label for="tipo de pastel">
-  
+<label for="tipo de pastel"> 
 </form>
 
