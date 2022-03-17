@@ -1,6 +1,6 @@
 [Modelos Clasicos](./modelosclasicos.md) | [Modelos Personalizados](./modelospersonalizados.md) | [Sabor y relleno](./saboryrelleno.md) | [Tamaños](./tamaños.md) | [Precios](./precios.md)
 
-## SABORES DE PASTELES 
+## SABORES  Y RELLENOS DE PASTELES 
 
 ## EXPRESO
 ¡ PARA LOS AMANTES DEL CHOCOLATE !
