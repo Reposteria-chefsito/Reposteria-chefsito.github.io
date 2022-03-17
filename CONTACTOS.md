@@ -24,9 +24,10 @@ WHATSAPP
 <label for="lname">Apellidos:</label><br>
 <input type="text" id="lname" name="lname" value="Tus apellidos"><br>
 <label for="celular">Celular:</label><br>  
-<input type="text" id="celular" celular="celular" value="Tu Celular"><br>
-<label for="1celular">Correo:</label><br>
-<input type="text" id="1celular" celular="celular" value="Tu correo"><br>
+<input type="text" id="celular" name="celular" value="Tu Celular"><br>
+<label for="mail">Correo:</label><br>
+<input type="mail" id="mail" name="mail" value="Tu correo"><br>
+<label for="tipo de pastel">
   
 </form>
 
