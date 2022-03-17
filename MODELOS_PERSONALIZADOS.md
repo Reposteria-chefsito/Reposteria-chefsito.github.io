@@ -1,4 +1,5 @@
-[Modelos Clasicos](./modelosclasicos.md) | [Modelos Personalizados](./modelospersonalizados.md) | [Sabor y relleno](./saboryrelleno.md) | [Tamaños](./tamaños.md) | [Precios](./precios.md) 
+[MODELOS CLASICOS](./MODELOS_CLASICOS.md)| [MODELOS PERSONLIZADOS](./MODELOS_PERSONALIZADOS.md) | [SABOR Y RELLENO](./SABOR_Y_RELLENO.md) | [TAMAÑOS](./TAMAÑOS.md) | [PRECIOS](./PRECIOS.md) | [CONTACTOS](./CONTACTOS.md)
+
 
 ### MODELOS PERSONALIZADOS 
 Es increible lo que uno puede crear en un  simple pastel desde sencillo hasta explotar tu imaginacion como los sguientes pasteles para que te des una idea  :)
