@@ -1,2 +1,2 @@
-[Modelos Clasicos](./modelosclasicos.md) | [Modelos Personalizados](./modelospersonalizados.md) | [Sabor y relleno](./saboryrelleno.md) | [Tamaños](./tamaños.md) | [Precios](./precios.md)
+[MODELOS CLASICOS](./MODELOSCLASICOS.md)| [MODELOS PERSONLIZADOS](./MODELOSPERSONALIZADOS.md) | [SABOR Y RELLENO](./SABORYRELLENO.md) | [TAMAÑOS](./TAMAÑOS.md) | [PRECIOS](./PRECIOS.md)
 
