@@ -3,7 +3,7 @@
 
 ### TAMAÑOS 
 
-[ Moldes Cuadrados | Moldes  Redondos]
+| Moldes Cuadrados | Moldes  Redondos|
 |------------------|----------------|
 | 15 cm  de lado 18 porciones | 15 cm de diametro 12 porcipones| 
 | 25 cm de lado 50 porciones | 25 cm de diametro 36 porciones | 
