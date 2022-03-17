@@ -18,7 +18,7 @@ WHATSAPP
 
 ![wa link_h10gp9](https://user-images.githubusercontent.com/99769850/158879064-9a36be76-6ce0-4b22-be51-4b551feb4c31.png)
 
-<form>
+<form action="/action_page.php">
 <label for="name">Nombres:</label><br>
 <input type="text" id="name" name="name" value="Tus nombres"><br>
 <label for="lname">Apellidos:</label><br>
@@ -28,8 +28,7 @@ WHATSAPP
 <label for="name">Correo:</label><br>
 <input type="text" id="correo" name="correo" value="Tu correo"><br>
 <label for="name">correo:</label><br>
-<label for="name">Tipo de pastel:</label><br>
-
-
+<input type="text" id="Tipo de pastel" name="tipo de pastel" value=" Tipo de pastel"><br>
+<input type="submit" value="Submit">
 </form>
 
