@@ -1,4 +1,4 @@
-[Modelos Clasicos](./modelosclasicos.md) | [Modelos Personalizados](./modelospersonalizados.md) | [Sabor y relleno](./saboryrelleno.md) | [Tamaños](./tamaños.md)
+[Modelos Clasicos](./modelosclasicos.md) | [Modelos Personalizados](./modelospersonalizados.md) | [Sabor y relleno](./saboryrelleno.md) | [Tamaños](./tamaños.md) | [Precios](./precios.md)
 ### REPOSTERIA CHEFSITO 
 
 Alfredo del Mazo 99, Caracol, Venustiano Carranza, 15630 Ciudad de México, CDMX
