@@ -20,7 +20,13 @@ WHATSAPP
 
 <form>
 <label for="name">Nombres:</label><br>
-<input type="text" id="fn name" name="name" value="Tus nombres"><br>
+<input type="text" id="name" name="name" value="Tus nombres"><br>
 <label for="lname">Apellidos:</label><br>
 <input type="text" id="lname" name="lname" value="Tus apellidos"><br>
+<label for="celular">Celular:</label><br>  
+<input type="text" id="celular" celular="celular" value="Tu Celular"><br>
+<label for="1celular">Correo:</label><br>
+<input type="text" id="1celular" celular="celular" value="Tu correo"><br>
+  
 </form>
+
