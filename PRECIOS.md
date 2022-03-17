@@ -1,6 +1,6 @@
 [MODELOS CLASICOS](./MODELOS_CLASICOS.md)| [MODELOS PERSONLIZADOS](./MODELOS_PERSONALIZADOS.md) | [SABOR Y RELLENO](./SABOR_Y_RELLENO.md) | [TAMAÑOS](./TAMAÑOS.md) | [PRECIOS](./PRECIOS.md) | [CONTACTOS](./CONTACTOS.md)
 
-[ Pastel redondo |  Pastel cuadradp]
+| Pastel redondo |  Pastel cuadrado|
 |----------------|----------------|
 | Chico=  $70 pesos | Chico= $89 pesos |
 | Mediano= $ 100 pesos | Mediano= $120 pesos | 
