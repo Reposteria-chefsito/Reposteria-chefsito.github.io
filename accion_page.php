@@ -1,18 +1,14 @@
 <html>
 <body>
 
+Welcome 
 <?php echo $_POST["name"]; ?><br>
-<?php echo $_POST["nombre"]; ?>
-<?php echo $_POST["name"]; ?><br>
-<?php echo $_POST["apellidos"]; ?>
-<?php echo $_POST["name"]; ?><br>
-<?php echo $_POST["contacto"]; ?>
-<?php echo $_POST["name"]; ?><br>
-<?php echo $_POST["tipo de pastel"]; ?>
-<?php echo $_POST["name"]; ?><br>
-<?php echo $_POST["fecha de entrega"]; ?>
-<?php echo $_POST["name"]; ?><br>
-<?php echo $_POST["hora de entrega"]; ?>
+<?php echo $_POST["lname"]; ?>
+<?php echo $_POST["contacto"]; ?><br>
+<?php echo $_POST["correo"]; ?>
+<?php echo $_POST["tipo"]; ?><br>
+<?php echo $_POST["entrega"]; ?>
+<?php echo $_POST["hora"]; ?><br>
   
 </body>
 </html>
