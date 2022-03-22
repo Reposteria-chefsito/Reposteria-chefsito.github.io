@@ -27,7 +27,6 @@ WHATSAPP
 <input type="text" id="contacto" name="contacto" value="Contacto"><br>
 <label for="name">Correo:</label><br>
 <input type="text" id="correo" name="correo" value="Tu correo"><br>
-<label for="name">correo:</label><br>
 
 <input type="submit" value="Submit">
 </form>
