@@ -28,11 +28,11 @@ WHATSAPP
 <label for="name">Correo:</label><br>
 <input type="text" id="correo" name="correo" value="Tu correo"><br>
 <label for="name">tipo de pastel:</label><br>
-<input type="text" id="tipo de pastel" name="tipo de pastel" value="Tipo de pastel"><br>
+<input type="text" id="tipo de pastel" name="tipo" value="Tipo de pastel"><br>
 <label for="name">fecha de entrega:</label><br>
-<input type="text" id="fecha de entrega" name="fecha de entrega" value="Fecha de entrega"><br>
+<input type="text" id="fecha de entrega" name="entrega" value="Fecha de entrega"><br>
 <label for="name">hora de entrega:</label><br>
-<input type="text" id="hrora de entrega" name="hora de entrega" value="Hora de entrega"><br>
+<input type="text" id="hrora de entrega" name="hora" value="Hora de entrega"><br>
 
 <input type="submit" value="Submit">
 <input type="date" id="birthday" name= "birthday">
