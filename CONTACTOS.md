@@ -29,6 +29,8 @@ WHATSAPP
 <input type="text" id="correo" name="correo" value="Tu correo"><br>
 <label for="name">tipo de pastel:</label><br>
 <input type="text" id="tipo de pastel" name="tipo de pastel" value="Tipo de pastel"><br>
+<label for="name">fecha de entrega:</label><br>
+<input type="text" id="fecha de entrega" name="fecha de entrega" value="Fecha de entrega"><br>
 
  <input type="submit" value="Submit">
 </form>
