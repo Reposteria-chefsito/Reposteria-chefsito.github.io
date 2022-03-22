@@ -34,7 +34,9 @@ WHATSAPP
 <label for="name">hora de entrega:</label><br>
 <input type="text" id="hrora de entrega" name="hora de entrega" value="Hora de entrega"><br>
 
- <input type="submit" value="Submit">
+<input type="submit" value="Submit">
+<input type="date" id="birthday" name= "birthday">
+
 </form>
 
 
